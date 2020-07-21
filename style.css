@@ -83,7 +83,7 @@ html{
         position:absolute;
         top:0px;
         left: 0px;
-        background: url(../img/car3.jpg)no-repeat center center/cover;
+        background: url("car3.jpg")no-repeat center center/cover;
         width:100%;
         height: 420px;
         z-index:-1;
@@ -141,7 +141,7 @@ position: relative;
 #client-section::before{
     
     content: "";
-    background: url("../img/car8.jpg");
+    background: url("car8.jpg");
     position: absolute;
     height:105%;
     width: 100%;
@@ -177,7 +177,7 @@ position: relative;
 
 #contact::before{
     content:"";
-    background: url(../img/bgcar1.jpg)no-repeat center center/cover;
+    background: url("bgcar1.jpg")no-repeat center center/cover;
     position: absolute;
     height: 100%;
     width: 100%;
